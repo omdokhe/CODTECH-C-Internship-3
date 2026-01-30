@@ -1,4 +1,4 @@
-# CODTECH-C-Internship-3
+# CODTECH-C-Internship-T3
 COMPANY : CODTECH IT SOLUTIONS
 NAME    : OM NARENDRA DOKHE
 INTERN ID : CTIS1983
@@ -6,7 +6,9 @@ DOMAIN  : C LANGUAGE
 DURATION : 4 WEEKS
 MENTOR  : NEELA SANTOSH
 OUTPUT  :
-
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/41951934-af10-4718-8873-f39ea109de96" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/d0c0177b-5827-45ef-8f1d-e1d56a7a6f07" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/307f7da9-df61-4c73-9092-27c1373b02ce" />
 
 DESCRIPTION :
 This task focuses on implementing a basic lexical analyzer using the C programming language. Lexical analysis is one of the most important phases in compiler design. It is the first step in the compilation process, where the source code is scanned character by character and converted into meaningful units called tokens. Tokens are the smallest elements of a programming language, such as keywords, identifiers, operators, numbers, and symbols.
